@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/pham-ng/Leetcode-Submission/tree/master/0373-find-k-pairs-with-smallest-sums) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/pham-ng/Leetcode-Submission/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/pham-ng/Leetcode-Submission/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
