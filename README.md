@@ -37,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/pham-ng/Leetcode-Submission/tree/master/0141-linked-list-cycle) |
+## Math
+|  |
+| ------- |
+| [2843-count-symmetric-integers](https://github.com/pham-ng/Leetcode-Submission/tree/master/2843-count-symmetric-integers) |
+## Enumeration
+|  |
+| ------- |
+| [2843-count-symmetric-integers](https://github.com/pham-ng/Leetcode-Submission/tree/master/2843-count-symmetric-integers) |
 <!---LeetCode Topics End-->
