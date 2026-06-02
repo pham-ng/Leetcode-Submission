@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/pham-ng/Leetcode-Submission/tree/master/0300-longest-increasing-subsequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/pham-ng/Leetcode-Submission/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Heap (Priority Queue)
 |  |
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2843-count-symmetric-integers](https://github.com/pham-ng/Leetcode-Submission/tree/master/2843-count-symmetric-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/pham-ng/Leetcode-Submission/tree/master/0300-longest-increasing-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/pham-ng/Leetcode-Submission/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
