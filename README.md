@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/pham-ng/Leetcode-Submission/tree/master/0009-palindrome-number) |
 | [2843-count-symmetric-integers](https://github.com/pham-ng/Leetcode-Submission/tree/master/2843-count-symmetric-integers) |
 ## Enumeration
 |  |
